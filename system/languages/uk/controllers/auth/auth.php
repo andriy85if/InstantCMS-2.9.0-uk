@@ -12,7 +12,7 @@
 
     define('LANG_AUTH_RESTRICTED_NAMES',        'Заборонені нікнейми');
     define('LANG_AUTH_RESTRICTED_NAMES_HINT',   'Один нікнейм на рядок, можна використовувати символ * для підстановки будь-якого значення');
-    define('LANG_AUTH_RESTRICTED_NAME',         'Використання никнейма <b>%s</b> заборонено');
+    define('LANG_AUTH_RESTRICTED_NAME',         'Використання нікнейма <b>%s</b> заборонено');
 
     define('LANG_AUTH_RESTRICTED_IPS',          'Заборонені IP-адреси для реєстрації');
     define('LANG_AUTH_RESTRICTED_IPS_HINT',     'Одна адреса на рядок, можна використовувати символ * для підстановки будь-якого значення');
